@@ -1,4 +1,5 @@
-# this README lives in the catalog-service directory inside of /scala-monorepo
+# catalog-service
+### this README lives in the catalog-service directory inside of /scala-monorepo
 
 This sample contains [sbt](http://www.scala-sbt.org/) build settings and test classes for illustrating multi-node testing with Akka.
 
